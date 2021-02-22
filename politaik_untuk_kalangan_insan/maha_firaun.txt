@@ -1,4 +1,4 @@
-# Madey
+# Maha Firaun
 
 beat: f_sharp_harmonic_minor-2020-02-05.wav
 
@@ -12,12 +12,12 @@ setiap detik peluang sang licik
 parti penulis cikgu melayu
 dicemar kapitalis korrrporat baru
 
-kononnya melayu yang mudah lupa
+.kononnya melayu yang mudah lupa
 moga panjang umur penuh rasa kecewa
 .anak takkan dapat penuhkan cita-cita
 walau dalam kocek ada duit berjuta
 
-kononnya melayu yang mudah lupa
+.kononnya melayu yang mudah lupa
 moga panjang umur penuh rasa kecewa
 .anak takkan dapat penuhkan cita-cita
 walau dalam kocek ada duit berjuta
@@ -53,24 +53,22 @@ setiap detik peluang sang licik
 parti penulis cikgu melayu
 dicemar kapitalis korrrporat baru
 
-kononnya melayu yang mudah lupa
+.kononnya melayu yang mudah lupa
 moga panjang umur penuh rasa kecewa
 .anak takkan dapat penuhkan cita-cita
 walau dalam kocek ada duit berjuta
 
-kononnya melayu yang mudah lupa
+.kononnya melayu yang mudah lupa
 moga panjang umur penuh rasa kecewa
 .anak takkan dapat penuhkan cita-cita
-walau dalam kocek ada duit berjuta
-
-sebelum nafas terakhir dihembus
+walau dalam kocek ada duit berjuta, sebelum nafas terakhir dihembus
 mata rabun nampak kelibat musuh
 yang kau khianat akan dekat terhimpun
 bekas-bekas sahabat senyum terasa syukur
 
-diktator lama perasan agung
-mungkin aku memang akan mati sebelum
-tapi sumpah derhaka tetap akan dimakbul
+diktator lama yang perasan agung..
+mungkin aku akan mati sebelum..
+sumpah orang derhaka akan termakbul
 sbelum engkau pergi siapa yang berkumpul?
 
 sebelum nafas terakhir dihembus
@@ -78,9 +76,9 @@ mata rabun nampak kelibat musuh
 yang kau khianat akan dekat terhimpun
 bekas-bekas sahabat senyum terasa syukur
 
-diktator lama perasan agung
-mungkin aku memang akan mati sebelum
-tapi sumpah derhaka tetap akan dimakbul
+diktator lama yang perasan agung..
+mungkin aku akan mati sebelum..
+sumpah orang derhaka akan termakbul
 sbelum engkau pergi siapa yang berkumpul?
 
 dosa-dosa dan hutang lama
