@@ -1,4 +1,4 @@
-beat: henri_gerro_yiddish.wav
+beat: henri_gerro_yiddish_b.wav
 
 orang-orang bangang tengah kenyang ketawa
 tersedawa perut penuh musim tengkujuh
@@ -16,7 +16,7 @@ kalis penjara undang-undang lain
 udang sebalik kain
 alas makanan minuman petang
 adik kecik dipaksa panggil abang
-bentang tilam bontot nak kena rotan
+bentang tilam bontot nak kena rot~aaan
 
 aku dah lupa
 perkara lima
@@ -43,7 +43,7 @@ sedatif.penakut.berombak beralun
 yang bodoh yang bangang pelupa disanjung
 yang hodoh yang senang dipuja dijulung
 siapa kais pagi siapa makan malam..
-perut.bunyi.sampah.tak.boleh.nak.dihadam
+perut.bunyi.sampah.tak.boleh.nak.dihada~aam
 
 aku dah lupa
 perkara lima
