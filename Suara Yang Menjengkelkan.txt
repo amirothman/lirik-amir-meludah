@@ -5,7 +5,7 @@
         soundcloud: https://soundcloud.com/amirmeludah/suara-yang-menjengkelkan
         lirik:
 
-        uka baju cabut topi
+buka baju cabut topi
 semua orang khusyuk pada telefon bimbit
 aku malas nak cerita orang lain boleh buang dengan selamba
 bomba sudah lupa nak tutup api
@@ -29,4 +29,3 @@ kerak nasi masih boleh sedap dijilat
 lidah rasa gatal lidah rasa kelat
 jangan jadi bebal tak dapat nak tangkap
 jangan jadi bebal tak dapat nak tangkap
-        
